@@ -1,0 +1,25 @@
+body a {
+  color: inherit;
+  text-decoration: none !important;
+}
+a:hover {
+  color: #00a0c6;
+  background-color: rgba(227, 252, 243, 0.75);
+  text-decoration: none;
+  cursor: pointer;
+}
+body {
+  background-color: rgba(211, 211, 211, 0.1) !important;
+}
+body h1 {
+  font-size: 2rem !important;
+}
+body h2 {
+  font-size: 1.65rem !important;
+}
+body h3 {
+  font-size: 1.5rem !important;
+}
+body h4 {
+  font-size: 1.4rem !important;
+}
